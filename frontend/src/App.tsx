@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Toaster, toast } from 'react-hot-toast';
 import { UploadZone } from './components/UploadZone';
 import { ExpectedValueForm } from './components/ExpectedValueForm';
