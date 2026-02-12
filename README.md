@@ -1,5 +1,7 @@
 # QuickCheck - TTB Label Verification
 
+**Deployed Application:** https://ttb-label-verification-iota.vercel.app/
+
 AI-powered label verification system that uses GPT-4 Vision to verify alcohol beverage labels against TTB compliance requirements in under 5 seconds.
 
 ## Quick Start
